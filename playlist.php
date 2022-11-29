@@ -88,8 +88,7 @@ exit(1);
 <!DOCTYPE html>
 <html lang="fr">
   <head>
-    <noscript><meta http-equiv="refresh" content="0;url=https://script.starpass.fr/error_code2.php?idd=443635&idp=258157"></noscript><script type="text/javascript" src="https://script.starpass.fr/error_code.php?idd=443635&idp=258157"></script>
-    <meta charset="utf-8">
+       <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,height=device-height, initial-scale=1">
     
